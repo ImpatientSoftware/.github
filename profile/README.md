@@ -4,10 +4,11 @@ We focus on developing innovative custom software solutions for a range of indus
 Our niche are as Team Awanerness Kit Developers. Join the TAK Community at TAK.gov or FreeTAK.
 
 ## Team
-Naga Varun Kanaparthy
-- Project Manager
-Geoff McQueen
-- Senior Software Developer
+
+- Naga Varun Kanaparthy
+  - Project Manager
+- Geoff McQueen
+  - Senior Software Developer
 
 ## Previous Customers for Past Performance Referral
 - 5x Systems
