@@ -5,5 +5,6 @@ Team Awanerness Kit Developers. Join the TAK Community at TAK.gov or FreeTAK.
 - Geoff McQueen
 ## Previous Customers
 - 5x Systems
-- Devillivers Tech
-- Amazon Robotics
+- DeVilliers Technology Solutions LLC
+- Game 7 Sub Contractor
+  - Amazon Robotics
