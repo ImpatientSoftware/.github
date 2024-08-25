@@ -28,4 +28,4 @@ Geoff McQueen
 
 ### Additional info for customers:
 - Relevant case studies/whitepapers available at https://www.impaitentsoftware.com/resources
-- Access our GitHub repository with open source projects at github.com/ImpaitentSoft
+- Access our GitHub repository with open source projects at [github.com/ImpaitentSoft](https://github.com/ImpatientSoftware)
