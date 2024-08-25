@@ -15,9 +15,10 @@ Our niche are as Team Awanerness Kit Developers. Join the TAK Community at TAK.g
 - Amazon Robotics Project Based Consultant under Game 7
   
 ## NAICS Codes
+- 511210 - Software Publishers
 - 541511 - Custom Computer Programming Services
 - 541512 - Computer Systems Design Services
-- 611430 - Administrative management and general management consulting services
+- 541330 - Engineering Services
 - 751512 - Radio communications equipment manufacturing
 
 ## Instructions for proposals
