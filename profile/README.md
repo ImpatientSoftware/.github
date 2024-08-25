@@ -28,5 +28,5 @@ Our niche are as Team Awanerness Kit Developers. Join the TAK Community at TAK.g
 5. If unsuccessful this time, reach out again for feedback on how to improve next time.
 
 ### Additional info for customers:
-- Relevant case studies/whitepapers available at https://www.impaitentsoftware.com/resources
-- Access our GitHub repository with open source projects at [github.com/ImpaitentSoft](https://github.com/ImpatientSoftware)
+- Relevant case studies/whitepapers available at https://www.impatientsoftware.com/resources
+- Access our GitHub repository with open source projects at [github.com/ImpatientSoft](https://github.com/ImpatientSoftware)
