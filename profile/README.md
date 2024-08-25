@@ -1,4 +1,4 @@
-# Impaitent Software - There be devils in the details
+# Impatient Software - There be devils in the details
 We focus on developing innovative custom software solutions for a range of industries and applications.
 Our niche are as Team Awanerness Kit Developers. Join the TAK Community at TAK.gov or FreeTAK.
 
